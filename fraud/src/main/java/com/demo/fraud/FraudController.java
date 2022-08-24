@@ -1,5 +1,6 @@
 package com.demo.fraud;
 
+import com.demo.clients.fraud.FraudCheckResponse;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
